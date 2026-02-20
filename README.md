@@ -1,4 +1,7 @@
 # Real-Time Crypto Streaming Pipeline 🚀
+> ⚡ Real-time cryptocurrency streaming pipeline built with 
+Redpanda (Kafka), Python, Streamlit & Docker. 
+Event-driven architecture with live visualization.
 
 ## Overview
 A high-performance streaming data pipeline that ingests, processes, and visualizes cryptocurrency trade data in real-time. Built to demonstrate Event-Driven Architecture using Redpanda (Kafka) and Docker.
@@ -22,7 +25,7 @@ A high-performance streaming data pipeline that ingests, processes, and visualiz
 ## How to Run
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/crypto-realtime-pipeline.git](https://github.com/YOUR_USERNAME/crypto-realtime-pipeline.git)
+    git clone https://github.com/Shrishsomawat/crypto-realtime-pipeline.git
     ```
 2.  **Start the cluster:**
     ```bash
@@ -31,3 +34,8 @@ A high-performance streaming data pipeline that ingests, processes, and visualiz
 3.  **View the Dashboard:**
     * Open `http://localhost:8501` to see live charts.
     * Open `http://localhost:8080` to see the Redpanda Console.
+
+    ---
+👨‍💻 Built by [Shrish Somawat](https://github.com/Shrishsomawat) | 
+Data Engineer | Amazon ROC  
+🔗 [LinkedIn](https://linkedin.com/in/shrishsomawat)
